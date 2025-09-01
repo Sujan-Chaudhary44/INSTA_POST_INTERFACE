@@ -1,27 +1,26 @@
-# 🧮 Basic Calculator (HTML, CSS, JavaScript)
+# 📸 Instagram Post UI Template
 
-This is a simple **Basic Calculator** project created using **HTML, CSS, and JavaScript**.  
-It allows users to perform basic arithmetic operations:
+This project is a **UI template of an Instagram post** built entirely with **HTML & CSS**.  
+It visually represents how a single post looks on Instagram, including:
 
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖️ Multiplication  
-- ➗ Division  
+- Profile section  
+- Post image  
+- Action buttons (❤️ Like, 💬 Comment, 📤 Share, 🔖 Save)  
+- Views and description section  
 
 ---
 
 ## 🚀 Features
-- Clean and simple UI  
-- Responsive design with CSS  
-- Real-time calculations  
-- Error-free number handling  
+- Clean Instagram-like design  
+- Responsive layout (works on desktop & mobile)  
+- Uses custom images for icons (heart, comment, share, save)  
+- Fully built with **HTML & CSS only** (no JavaScript)  
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML** – structure of the calculator  
-- **CSS** – styling and layout  
-- **JavaScript** – logic for calculations  
+- **HTML** – structure  
+- **CSS** – styling, layout, gradients  
 
 ---
 
